@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="http://internshipsmanager.herokuapp.com">
-    <img alt="internship manager" title="internship-manager" src="https://user-images.githubusercontent.com/45500812/170837833-2a9febf5-447c-4e73-8b48-0258a7d62c00.png" />
-  </a>
-</h1>
+<h1 align="center">System Tests (Testes de Sistema)</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
