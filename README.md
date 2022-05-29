@@ -8,6 +8,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="Login" src="https://user-images.githubusercontent.com/45500812/170884687-a556db6e-0029-42ce-8d4b-faccc436759b.png" width="40%">
+</p>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
