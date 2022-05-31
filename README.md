@@ -30,7 +30,7 @@ Aplicação em Java usando o gerenciador de build Maven e nos testes JUnit e Sel
 - Clone o repositório
 - Instale o [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/)
 - Abra o projeto na IDE
-- Abra o arquivo em: src > test > java > SignTest.java
+- Abra o arquivo em: src > test > java > Tests.java
 - Execute este arquivo para rodar os testes.
 
 ---
